@@ -1,6 +1,6 @@
 ## Test Functions Using Plain JS or Mocha
 
-Test functions ssing plain JS or Mocha
+Test functions using plain JS or Mocha
 
 ###### Modules
 
